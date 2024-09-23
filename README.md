@@ -1,4 +1,4 @@
-<div align="center">
+<div style="display: inline_block" align="center" ><br>
 # Olá, me chamo Samuel Chagas ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
