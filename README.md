@@ -1,7 +1,8 @@
 <div align="center">
 # Olá, me chamo Samuel Chagas ! 
-## Bem vindo ao meu perfil GitHub 👋<br>
-<div>
+## Bem vindo ao meu perfil GitHub 👋
+<br>
+  <div>
 
 
 📕 Atualmente estou cursando o 4° semestre do curso de "ADS" na universidade de fortaleza "UNIFOR"<br>
