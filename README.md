@@ -6,7 +6,8 @@
 <div>
 📕 Atualmente estou cursando o 4° semestre do curso de "ADS" na universidade de fortaleza "UNIFOR"<br>
 :blue_book: Gosto de estudar tudo o que envolve UI/UX e interfaces gráficas. Sempre busco aprender mais sobre design de interfaces e como melhorar a experiência do usuário em diferentes plataformas.
-
+<div>
+  
 <div align="center">
 📫 Como entrar em contato comigo:         
 <div>
